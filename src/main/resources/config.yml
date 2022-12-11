@@ -1,0 +1,10 @@
+bot-token: ''
+webhook: ''
+channel-id: ''
+
+# https://docs.adventure.kyori.net/minimessage/format.html
+# name is the username of the sender
+# message is the message sent
+# link is a url to the message
+message-format: '<hover:show_text:"<gray>Click to jump to the message"><click:open_url:<link>><dark_aqua>Bridge> <white><name>: <message></click></hover>'
+ansi: true

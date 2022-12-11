@@ -1,7 +1,7 @@
 name: Discord-Bridge
 version: '${project.version}'
-main: net.cookietom.discordBridge.Main
+main: net.cookietom.discordbridge.DiscordBridgePlugin
 api-version: 1.19
 authors: [ CookieTom ]
-description: A plugin bridges a channel in your discord server to your 
+description: A plugin bridges a channel in your discord server to your
   minecraft server, and does the same the other way.
